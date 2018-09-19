@@ -142,7 +142,7 @@ a:active
 
 .col_market{
 
-  margin-left: 100%;
+  margin-left: 7%;
   margin: center;
 }
 
@@ -296,29 +296,7 @@ font-family: Nexa; sans-serif;
   text-decoration: none;
 }
 
-#bottom_bar
-{
-  overflow: hidden;
-  position: fixed;
-  background-color: black;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  height: 68px;
-  z-index: 9999;
-}
 
-#bottom_bar_text
-{
-  margin-top: 0;
-  padding: 17px;
-  font-family: 'Josefin Sans', sans-serif;
-  font-size: 11px;
-  color: gray;
-  letter-spacing: 3pt;
-    white-space: nowrap;
-  text-align: center;
-}
 
 @media only screen and (max-width: 768px){
   .container{
