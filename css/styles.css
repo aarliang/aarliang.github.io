@@ -315,7 +315,7 @@ font-family: Nexa; sans-serif;
 }
 @media only screen and (max-width: 768px){
   .container{
-    background-color: orangered;
+    background-color: none;
   }
   .tabletOneSixth{
     width: 13.666%;
@@ -347,7 +347,7 @@ font-family: Nexa; sans-serif;
 /* Mobile */
 @media only screen and (max-width: 520px){
   .container{
-    background-color: violet;
+    background-color: none;
   }
   .col{
     width: 94%;
